@@ -14,9 +14,16 @@
 ---
 
 ### 🚀 About Me
-- 👯 I’m looking to collaborate on **Plantation and Irrigation industry**
-- 💬 Ask me about **basis of coding of C++**
-- ⚡ Fun fact: **Eager to learn new things and be the youngest in the room**
+​I'm a Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM) and a junior developer passionate about turning ideas into practical software and hardware solutions. While I'm early in my coding journey, I enjoy getting hands-on with logic, backend systems, and IoT integrations to solve real-world problems.
+
+### 💯 What I'm Working On & Skills
+# ​Core Skills: Proficient in C++ and comfortable using Git & GitHub for version control and project collaboration.
+# ​Current Project: Developing the user interface (UI) for an enterprise-level irrigation monitoring system.
+# ​Past Builds: Built a functional bus ticketing system and an automated IoT irrigation system.
+​# Achievement: Awarded the Silver Medal at Karnival Sains, Teknologi dan Islam (KSTI).
+
+### 💫 My Goal
+​I love learning by building—taking projects from scratch, strengthening my programming fundamentals, and continuously leveling up my software and data engineering skills.
 
 ---
 
