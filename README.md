@@ -2,8 +2,9 @@
   <!-- Replace avatar.jpg with your uploaded image filename -->
   <img src="avatar.jpg" width="180" height="180" style="border-radius: 50%;" alt="Profile Picture" />
   
-  <h1>Hi there, I'm Siti ! 👋</h1>
-  <p><em> Student of UTM studying Bachelor of Computer Science (Data Engineering) </em></p>
+  <h1>Siti Nuraishah binti Mohd Hatta</h1>
+  <p><em> Siti </em></p>
+  <p><em> Student of UTM studying Bachelor of Computer Science (Data Engineering) with Honours </em></p>
 
   <p>
     <a href="https://www.linkedin.com/in/siti-jelaa-0a7739443?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
