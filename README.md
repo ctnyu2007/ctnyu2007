@@ -24,7 +24,7 @@
 ​ Achievement: Awarded the Silver Medal at Karnival Sains, Teknologi dan Islam (KSTI).
 
 ### 💫 My Goal
-​
+​I love learning by building—taking projects from scratch, strengthening my programming fundamentals, and continuously leveling up my software and data engineering skills.
 
 ---
 
